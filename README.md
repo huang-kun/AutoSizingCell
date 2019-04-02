@@ -14,6 +14,6 @@ UITableView set auto sizing constraints:
 
 Result:
 
-![demo](demo.jpg)
+![demo](demo.png)
 
 
